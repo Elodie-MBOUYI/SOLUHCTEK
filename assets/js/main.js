@@ -255,3 +255,10 @@
   });
 
 })()
+
+function submitBeatport()
+{
+          document.beatport.submit();
+          document.beatport.reset();
+}
+
